@@ -3,3 +3,12 @@ __pycache__/
 data/logs/*
 data/raw/*
 data/processed/*
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
